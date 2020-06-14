@@ -10,7 +10,7 @@ SQLite 3.0
 # Framework used
 tkinter
 
-# Packages for Python
+# Packages used for Python
 tkinter,
 tkcalendar,
 pillow,
